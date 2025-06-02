@@ -145,4 +145,4 @@ source ~/.bashrc
 
 This guide provides a basic Kubernetes cluster installation. For production, consider high-availability setups, security configurations, and monitoring tools. Let me know if you'd like additional details!
 
-## By [Harshhaa Reddy](https://www.github.com/NotHarshhaa)
+## By [Amogh Goswami](https://www.github.com/goswami800)
